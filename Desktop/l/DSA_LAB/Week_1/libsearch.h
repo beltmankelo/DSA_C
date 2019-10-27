@@ -1,0 +1,1 @@
+int Lsearch(int *, int , int );
